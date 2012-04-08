@@ -458,4 +458,4 @@ ImgProc.displayColorHistogram	= function(imageData, colorHistogram)
 			pDst[i+2]	= pSrc[i+2];
 		}
 	}
-}
+};
